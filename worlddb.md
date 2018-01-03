@@ -232,4 +232,4 @@ end
 
 ```
 
-(Source: [world.db.service//service.rb](https://github.com/worlddb/world.db.service/blob/master/service.rb))
+(Source: [world.db.service/service.rb](https://github.com/worlddb/world.db.service/blob/master/service.rb))
